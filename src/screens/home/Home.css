@@ -1,0 +1,26 @@
+.restaurant-rating-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e1ad01;
+    width: 45%;
+    color: white;
+    padding: 5px;
+  }
+  
+.restaurant-categories-div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+.rating-and-avg-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+  
+.noRestaurant {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    padding-left: 30px;
+}
